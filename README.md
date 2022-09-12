@@ -9,7 +9,7 @@ Task 1 :
   A:
 line : $ echo "Fuzztest1337" | radamsa
 
-	B:
+  B:
 line : $ radamsa -o out/fuzz%n.txt -n 100 -r in/fuzz.txt
 
 Task 2 : I cannot finish this Task, I have some trouble to install AFL on my laptop. I do what I can :
